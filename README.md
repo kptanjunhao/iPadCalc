@@ -5,3 +5,4 @@
 
 bug：切换符号会引起崩溃请谨慎切换符号。以后再修复
 
+![](https://github.com/kptanjunhao/iPadCalc/blob/master/ipadcalc.gif)
